@@ -21,7 +21,7 @@
 
 ## 🔹 Skills  
 💡 *Programming & Tools:*  
-- Python 🐍 | SQL 🗄 | Power BI 📊 | Excel ⚡  
+- Python 🐍 | SQL 🗄 | Power BI 📊 | Tableau 📊 | Excel ⚡  
 
 🛠 *Other Skills:*  
 - Data Cleaning & Transformation  
