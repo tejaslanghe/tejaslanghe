@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejas Langhe  
 
-<!--
-**tejaslanghe/tejaslanghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst | 📊 Turning Data into Insights | 💻 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- 🎓 Electronics & Telecommunication Engineer  
+- 📈 Skilled in *SQL, Python, Power BI, Excel ,Tableau*  
+- 🧠 Interested in *Data Analytics, Business Intelligence, and Cloud Data Tools*  
+- 🌱 Continuously improving my skills in *Data Warehousing, ETL, and Advanced Visualization*  
+
+---
+
+## 🔹 Qualifications  
+- 🎓 Bachelor of Engineering (B.E.) in Electronics & Telecommunication  
+- 🏫 [Add Your College/University Name Here]  
+- 📅 Graduation Year: [Add Year]  
+
+---
+
+## 🔹 Skills  
+💡 *Programming & Tools:*  
+- Python 🐍 | SQL 🗄 | Power BI 📊 | Excel ⚡  
+
+🛠 *Other Skills:*  
+- Data Cleaning & Transformation  
+- Data Visualization & Reporting  
+- Statistical Analysis  
+- Dashboard Development  
+
+---
+
+## 🔹 Projects  
+🔸 [**Power BI Project**](https://github.com/tejaslanghe/powerbi_Project)  
+- Designed interactive dashboards to track KPIs, sales trends, and insights.  
+
+🔸 [**Python Project**](https://github.com/tejaslanghe/Python-Project)  
+- Analyzed datasets using Pandas & Matplotlib for visualization and insights.  
+
+🔸 [**SQL Project**](https://github.com/tejaslanghe/SQL-project)  
+- Built and optimized queries using Joins, Subqueries, and Aggregations to answer business questions.  
+
+---
+
+## 🔹 Connect with Me  
+📧 Email: tejaslanghe8686@gmail.com  
+💼 LinkedIn: [linkedin.com/in/tejaslanghe](https://linkedin.com/in/tejaslanghe)  
+🔗 GitHub: [github.com/tejaslanghe](https://github.com/tejaslanghe)  
+
+---
+
+⭐ *“Data is the new oil, but insights drive decisions.”*  
+
