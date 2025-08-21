@@ -45,7 +45,7 @@
 
 ## 🔹 Connect with Me  
 📧 Email: tejaslanghe8686@gmail.com  
-💼 LinkedIn: [linkedin.com/in/tejaslanghe](https://linkedin.com/in/tejaslanghe)  
+💼 LinkedIn: [linkedin.com/in/tejaslanghe]([https://linkedin.com/in/tejaslanghe](https://www.linkedin.com/in/tejas-langhe-7069252b0/))  
 🔗 GitHub: [github.com/tejaslanghe](https://github.com/tejaslanghe)  
 
 ---
