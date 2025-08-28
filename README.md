@@ -13,10 +13,10 @@
 ---
 
 ## 🔹 Qualifications  
-- 🎓 Bachelor of Engineering (B.E.) in Electronics & Telecommunication  
-- 🏫 Savitribai Phule Pune University, Pune, Maharashtra
-- 📅 December 2021 – June 2025
-- 📊 CGPA: 7.82
+- 🎓 **Bachelor of Engineering (B.E) - Electronics & Telecommunication Engineering**  
+  *Savitribai Phule Pune University, Pune, Maharashtra*  
+  📅 *December 2021 – June 2025*  
+  📊 *CGPA: 7.82*  
 ---
 
 ## 🔹 Skills  
