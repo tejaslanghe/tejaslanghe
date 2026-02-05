@@ -32,7 +32,7 @@
 ---
 
 ## 🔹 Projects  
-🔸 [**Power BI Project**](https://github.com/tejaslanghe/powerbi_Project)  
+🔸 [**Power BI Project**](https://github.com/tejaslanghe/pune-jewellery-market-intelligence)
 - Designed interactive dashboards to track KPIs, sales trends, and insights.  
 
 🔸 [**Python Project**](https://github.com/tejaslanghe/Python-Project)  
