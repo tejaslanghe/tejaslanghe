@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tejas Langhe  
 
-🚀 Aspiring Data Analyst | 📊 Turning Data into Insights | 💻 Lifelong Learner  
+🚀 Data Analyst | 📊 Turning Data into Insights | 💻 Lifelong Learner  
 
 ---
 
